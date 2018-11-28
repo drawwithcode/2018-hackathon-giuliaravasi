@@ -15,7 +15,7 @@
 function preload(){
   mySong = loadSound('./assets/PLL_Intro.mp3');
   secretImg = loadImage('./assets/secret.svg');
-  faqImg = loadImage(.'/assets/faq.svg');
+  faqImg = loadImage('./assets/faq.svg');
   lockImg = loadImage('./assets/lock.svg');
   pocketImg = loadImage('./assets/pocket.svg');
   graveImg = loadImage('./assets/grave.svg');
